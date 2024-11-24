@@ -1,2 +1,3 @@
 # hello-world
 This repository is about practicing the GitHub Flow.
+I'm a teacher for German as foreign language but school system has been changed and it has become a business which I don't like as a teacher because the focus has been shifted from teaching the kiddos the best we can to make them a kind of surrogate for our business, so I decided to give a go to programming, where I hope business meets creativity and one plus one equals three in the sense that my work can contribute to something bigger than earning money and creating something. What do I mean with that? Imagine a website which is functional and a good use for everybody being on it, like a dating site which help people to find a partner.
